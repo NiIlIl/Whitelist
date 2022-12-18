@@ -1,9 +1,8 @@
 function Set (list)
    local set = {}
    for _, l in ipairs(list) do set[l] = true end
-   return set
 end
-return Set {
-    "3554228446",
+    Set {
+    "020062628b4100842c6a8302a44a740a1004527a900500840a0110a343c00108",
     
 }
